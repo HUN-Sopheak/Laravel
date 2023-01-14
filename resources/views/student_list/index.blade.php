@@ -38,7 +38,7 @@
                 <th>address</th>
                 <th>phone</th>
                 <th>email</th>
-
+       <th>email</th>
             </thead>
             <tbody>
                 {{-- <tr>
